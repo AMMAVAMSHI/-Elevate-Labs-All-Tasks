@@ -72,3 +72,7 @@ Enter second number : 17
 - Java JDK 17+
 - VS Code / IntelliJ IDEA Community Edition
 - Terminal / Command Prompt
+
+
+Outputs :
+![alt text](image.png)
