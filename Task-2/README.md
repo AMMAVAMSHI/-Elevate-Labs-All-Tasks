@@ -64,3 +64,13 @@ java StudentRecordSystem
 ## Requirements
 - Java 17 or later (uses switch expressions & `var`)
 - No external libraries — pure standard Java
+
+  -Outputs
+  <img width="741" height="882" alt="image" src="https://github.com/user-attachments/assets/027b6b33-4cd8-4e8d-ad7a-905cf219dd38" />
+  <img width="710" height="896" alt="image" src="https://github.com/user-attachments/assets/266355fe-b3d1-454c-9dc0-d1628d8c30d6" />
+  <img width="612" height="848" alt="image" src="https://github.com/user-attachments/assets/020fbccc-4422-4e9b-9001-6c1dfa52c4bf" />
+
+  
+
+  
+
