@@ -123,3 +123,13 @@ notes/
 - Type `END` on a new line to finish writing a note
 - The `notes/` folder is created automatically next to where you run the app
 - Try editing a note file directly in VS Code and re-reading it in the app!
+
+Outputs :
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)

@@ -1,0 +1,8 @@
+TITLE     : Java OOPs
+CREATED   : 2026-06-04 19:43:48
+────────────────────────────────────────
+the conceps of oops are :
+-Inheritance
+-Encapuslation
+-Abstraction
+-Polymorphism
